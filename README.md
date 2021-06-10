@@ -1,4 +1,4 @@
-## João Luís Lins - Portfolio 
+## João Luís Lins
 Brief passage through my Data Science / MLOps journey
 
 
