@@ -1,8 +1,8 @@
-# João Luís Lins - Portfolio 
+## João Luís Lins - Portfolio 
 Brief passage through my Data Science / MLOps journey
 
 
-## StreetEasy - Multiple Linear Regression
+### StreetEasy - Multiple Linear Regression
 Predicting rent prices in StreetEasy, a Real Estate marketplace.
 
 ![Image](predictedvsactual.png)
