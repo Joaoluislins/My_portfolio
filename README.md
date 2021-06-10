@@ -5,7 +5,6 @@ Brief passage through my Data Science / MLOps journey
 ### StreetEasy - Multiple Linear Regression
 *Predicting rent prices in StreetEasy, a Real Estate marketplace.*
 <br />
-<br />
 
 ![Image](predictedvsactual.png)
 
