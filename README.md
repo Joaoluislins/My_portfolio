@@ -1,7 +1,6 @@
 # __João Luís Lins__
 Brief passage through my Data Science / MLOps journey \
 <br />
-
 ### StreetEasy - Multiple Linear Regression  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joaoluislins/StreetEasy_Codecademy/blob/main/project.ipynb)
 *Predicting rent prices in StreetEasy, a Real Estate marketplace.*
 <br />
