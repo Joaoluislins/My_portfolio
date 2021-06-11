@@ -1,4 +1,4 @@
-## __João Luís Lins__
+# __João Luís Lins__
 Brief passage through my Data Science / MLOps journey
 <br />
 <br />  
