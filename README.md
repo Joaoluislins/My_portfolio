@@ -6,7 +6,7 @@ Brief passage through my Data Science / MLOps journey
 *Predicting rent prices in StreetEasy, a Real Estate marketplace.*
 <br />
 
-![Image](predictedvsactual.png) ![Image2](featinfluence.png)
+![Image](predictedvsactual.png)![Image2](featinfluence.png)
 > The objective of the project is to apply Multiple Linear Regression (MLR), working with Python and a dataset that contains a sample of 5,000 rentals listings in Manhattan, Brooklyn, and Queens, active on StreetEasy in June 2016.
 
 Project built as part of the Data Scientist Career Certification, provided by Codecademy. \
