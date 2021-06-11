@@ -1,8 +1,8 @@
 # __João Luís Lins__
-Brief passage through my Data Science / MLOps journey
+Brief passage through my Data Science / MLOps journey \
 <br />
 <br />  
-### StreetEasy - Multiple Linear Regression
+### StreetEasy - Multiple Linear Regression  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joaoluislins/StreetEasy_Codecademy/blob/main/project.ipynb)
 *Predicting rent prices in StreetEasy, a Real Estate marketplace.*
 <br />
 <br />
@@ -18,7 +18,7 @@ It's a partnership between StreetEasy and Codecademy to provide a real business 
 <br />
 <br />
 
-### US insurance costs - Multiple Linear Regression // Data exploration
+### US insurance costs - Multiple Linear Regression // Data exploration  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joaoluislins/us_insurance_costs/blob/main/US_Insurance_costs.ipynb)
 *Predicting the insurance charging cost of a person based in 6 feats.*
 <br />
 
