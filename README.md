@@ -7,7 +7,7 @@ Brief passage through my Data Science / MLOps journey \
 <br />
 
 ![Image](predictedvsactual.png)![Image2](featinfluence.png)
-> The objective of the project is to apply Multiple Linear Regression (MLR), working with Python and a dataset that contains a sample of 5,000 rentals listings in Manhattan, Brooklyn, and Queens, active on StreetEasy in June 2016.
+> The objective of the project is to predict rent prices, applying Multiple Linear Regression in 14 feats, working with Python and a dataset that contains a sample of 5,000 rentals listings in Manhattan, Brooklyn, and Queens, active on StreetEasy in June 2016.
 
 Project built as part of the Data Scientist Career Certification, provided by Codecademy. \
 It's a partnership between StreetEasy and Codecademy to provide a real business case study.
@@ -18,11 +18,11 @@ It's a partnership between StreetEasy and Codecademy to provide a real business 
 <br />
 
 ### US insurance costs - Multiple Linear Regression // Data exploration  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joaoluislins/us_insurance_costs/blob/main/US_Insurance_costs.ipynb)
-*Predicting the insurance charging cost of a person based in 6 feats.*
+*Predicting the insurance charging cost of a US citizen.*
 <br />
 
 ![Image3](costvsage.jpg)
-> The objective of the project was to build a python algorithm to analyze data on US Insurance Costs, no framework was given and I could choose whatever aspects I would like to focus into.
+> The objective of the project was to build a python algorithm to analyze the data and the influence of 14 feats on US insurance costs, no framework was given and I could choose whatever aspects I would like to focus into.
 
 Codecademy project
 
