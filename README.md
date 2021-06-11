@@ -21,7 +21,7 @@ It's a partnership between StreetEasy and Codecademy to provide a real business 
 *Predicting the insurance charging cost of a person based in 6 feats.*
 <br />
 
-![Image2](costvsage.png)
+![Image2](costvsage.jpg)
 > The objective of the project was to build a python algorithm to analyze data on US Insurance Costs, no framework was given and I could choose whatever aspects I would like to focus into.
 
 Codecademy project
