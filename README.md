@@ -6,7 +6,7 @@ Brief passage through my Data Science / MLOps journey \
 <br />
 <br />
 
-![Image0](predictedvsactual.png)![Image1](featinfluence.png)
+![Image0](car_price.png)
 > The objective of this study was to advise the Sales team into pricing used cars that arrive on a UK dealership store.
 By analyzing the given dataset, collected from other retailers, I could:
 
