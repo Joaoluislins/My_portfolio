@@ -2,7 +2,7 @@
 Brief passage through my Data Science / MLOps journey \
 <br />
 ### Pricing Toyota cars - (Lasso, Ridge, Elastic, Stochastic GradientBoosting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cfcp4IqrQjQhdSYwWXZNsaxQXz1TvTiG?usp=sharing)
-*Predicting rent prices in StreetEasy, a Real Estate marketplace.*
+*Predicting used Toyota prices from a UK car dealership.*
 <br />
 <br />
 
