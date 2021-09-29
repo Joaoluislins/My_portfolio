@@ -1,5 +1,22 @@
 # __João Luís Lins__
 Brief passage through my Data Science / MLOps journey \
+
+<br />
+### Pricing Toyota cars - Regression models (Lasso, Ridge, Elastic, Stochastic GradientBoosting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joaoluislins/StreetEasy_Codecademy/blob/main/project.ipynb)
+*Predicting rent prices in StreetEasy, a Real Estate marketplace.*
+<br />
+<br />
+
+![Image0](predictedvsactual.png)![Image1](featinfluence.png)
+> The objective of this study was to advise the Sales team into pricing used cars that arrive on a UK dealership store.
+By analyzing the given dataset, collected from other retailers, I could:
+
+- Infer the aspects of a car that are most relevant in predicting it's selling price.
+- Create a predictive pricing model that works well within a £1500 error's limit range.
+
+Project built as part of the Data Scientist Professional Certification, provided by DataCamp. 
+* DataCamp is an online coding learning resource. 
+<br />
 <br />
 ### StreetEasy - Multiple Linear Regression  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joaoluislins/StreetEasy_Codecademy/blob/main/project.ipynb)
 *Predicting rent prices in StreetEasy, a Real Estate marketplace.*
