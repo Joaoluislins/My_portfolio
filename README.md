@@ -13,8 +13,8 @@ By analyzing the given dataset, collected from other retailers, I could:
 - Infer the aspects of a car that are most relevant in predicting it's selling price.
 - Create a predictive pricing model that works well within a £1500 error's limit range.
 
-Project built as part of the Data Scientist Professional Certification, provided by DataCamp. 
-* DataCamp is an online learning platform. 
+Project built as part of the Data Scientist Professional Certification, provided by [DataCamp](http://www.datacamp.com/). 
+-DataCamp is an online learning platform. 
 <br />
 <br />
 ### StreetEasy - Multiple Linear Regression  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joaoluislins/StreetEasy_Codecademy/blob/main/project.ipynb)
