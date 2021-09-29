@@ -4,7 +4,6 @@ Brief passage through my Data Science / MLOps journey \
 ### Pricing Toyota cars - (Lasso, Ridge, Elastic, Stochastic GradientBoosting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cfcp4IqrQjQhdSYwWXZNsaxQXz1TvTiG?usp=sharing)
 *Predicting used Toyota car prices from a UK dealership.*
 <br />
-<br />
 
 ![Image0](car_price.png)
 > The objective of this study was to advise the Sales team into pricing used cars that arrive on a UK dealership store.
