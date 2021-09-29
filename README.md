@@ -26,6 +26,7 @@ Project built as part of the Data Scientist Professional Certification, provided
 
 Project built as part of the Data Scientist Career Certification, provided by [Codecademy](http://www.codecademy.com/). \
 Partnership between StreetEasy and Codecademy to provide a real business case study.
+
 *StreetEasy is New York City's leading real estate marketplace.*
 <br />
 <br />
