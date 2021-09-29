@@ -25,7 +25,7 @@ Project built as part of the Data Scientist Professional Certification, provided
 > The objective of the project was to predict rent prices, applying Multiple Linear Regression in 14 feats, working with Python and a dataset that contains a sample of 5,000 rentals listings in Manhattan, Brooklyn, and Queens, active on StreetEasy in June 2016.
 
 Project built as part of the Data Scientist Career Certification, provided by [Codecademy](http://www.codecademy.com/). \
-It's a partnership between StreetEasy and Codecademy to provide a real business case study.
+Partnership between StreetEasy and Codecademy to provide a real business case study.
 *StreetEasy is New York City's leading real estate marketplace.*
 <br />
 <br />
