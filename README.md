@@ -1,6 +1,7 @@
 # __João Luís Lins__
 Brief passage through my Data Science / MLOps journey \
 <br />
+
 ### Pricing Toyota cars - (Lasso, Ridge, Elastic, Stochastic GradientBoosting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cfcp4IqrQjQhdSYwWXZNsaxQXz1TvTiG?usp=sharing)
 *Predicting used Toyota car prices from a UK dealership.*
 <br />
@@ -13,7 +14,7 @@ By analyzing the given dataset, collected from other retailers, I could:
 - Create a predictive pricing model that works well within a £1500 error's limit range.
 
 Project built as part of the Data Scientist Professional Certification, provided by DataCamp. 
-* DataCamp is an online coding learning resource. 
+* DataCamp is an online learning platform. 
 <br />
 <br />
 ### StreetEasy - Multiple Linear Regression  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joaoluislins/StreetEasy_Codecademy/blob/main/project.ipynb)
@@ -22,12 +23,12 @@ Project built as part of the Data Scientist Professional Certification, provided
 <br />
 
 ![Image](predictedvsactual.png)![Image2](featinfluence.png)
-> The objective of the project is to predict rent prices, applying Multiple Linear Regression in 14 feats, working with Python and a dataset that contains a sample of 5,000 rentals listings in Manhattan, Brooklyn, and Queens, active on StreetEasy in June 2016.
+> The objective of the project was to predict rent prices, applying Multiple Linear Regression in 14 feats, working with Python and a dataset that contains a sample of 5,000 rentals listings in Manhattan, Brooklyn, and Queens, active on StreetEasy in June 2016.
 
 Project built as part of the Data Scientist Career Certification, provided by Codecademy. \
 It's a partnership between StreetEasy and Codecademy to provide a real business case study.
 
-* Codecademy is an online coding learning resource. 
+* Codecademy is an online learning platform. 
 * StreetEasy is New York City's leading real estate marketplace.
 <br />
 <br />
