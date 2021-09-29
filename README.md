@@ -13,8 +13,7 @@ By analyzing the given dataset, collected from other retailers, I could:
 - Infer the aspects of a car that are most relevant in predicting it's selling price.
 - Create a predictive pricing model that works well within a £1500 error's limit range.
 
-Project built as part of the Data Scientist Professional Certification, provided by [DataCamp](http://www.datacamp.com/). 
--DataCamp is an online learning platform. 
+Project built as part of the Data Scientist Professional Certification, provided by [DataCamp](http://www.datacamp.com/).  
 <br />
 <br />
 ### StreetEasy - Multiple Linear Regression  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joaoluislins/StreetEasy_Codecademy/blob/main/project.ipynb)
@@ -25,11 +24,9 @@ Project built as part of the Data Scientist Professional Certification, provided
 ![Image](predictedvsactual.png)![Image2](featinfluence.png)
 > The objective of the project was to predict rent prices, applying Multiple Linear Regression in 14 feats, working with Python and a dataset that contains a sample of 5,000 rentals listings in Manhattan, Brooklyn, and Queens, active on StreetEasy in June 2016.
 
-Project built as part of the Data Scientist Career Certification, provided by Codecademy. \
+Project built as part of the Data Scientist Career Certification, provided by [Codecademy](http://www.codecademy.com/). \
 It's a partnership between StreetEasy and Codecademy to provide a real business case study.
-
-* Codecademy is an online learning platform. 
-* StreetEasy is New York City's leading real estate marketplace.
+*StreetEasy is New York City's leading real estate marketplace.*
 <br />
 <br />
 
