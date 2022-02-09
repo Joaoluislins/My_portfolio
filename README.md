@@ -1,5 +1,5 @@
 # __João Luís Lins__
-Brief passage through my Data Science / MLOps journey \
+Brief passage through my Data Science / AI journey \
 <br />
 
 ### Pricing Toyota cars - (Lasso, Ridge, Elastic, Stochastic GradientBoosting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cfcp4IqrQjQhdSYwWXZNsaxQXz1TvTiG?usp=sharing)
