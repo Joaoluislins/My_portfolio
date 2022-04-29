@@ -7,6 +7,7 @@ Brief passage through my Data / AI journey \
 *Predicting Stock's price movement.*
 > The main objectives of this project are: understand advanced deep learning models inner structures; comprehend the whole cycle of the data throughout a model in production.
 The deploy of the model is going to be made in AWS.
+Github repo: https://github.com/Joaoluislins/algotrader-aws-airflow
 <br />
 
 ![Image4](algotrader_flow.jpeg)
