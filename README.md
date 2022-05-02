@@ -3,10 +3,10 @@ Brief passage through my Data / AI journey \
 <br />
 
 
-### (In progress) Deploy of a algorithmic stock trading strategy with a deep learning model (LSTM Keras) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_bsndj48XWm6H6cxDTaKKhBGTNuHgGLE?usp=sharing)
+### (In progress) Deploy of a algorithmic stock trading strategy using a deep learning model (LSTM Keras) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_bsndj48XWm6H6cxDTaKKhBGTNuHgGLE?usp=sharing)
 *Predicting Stock's price movement.*
 > The main objectives of this project are: understand advanced deep learning models inner structures; comprehend the whole cycle of the data throughout a model in production.
-The deploy of the model is going to be made in AWS.
+The deploy of the model is going to be made in AWS using terraform script and it's going to be orchestrated with Apache Airflow.
 Github repo: https://github.com/Joaoluislins/algotrader-aws-airflow
 <br />
 
