@@ -1,5 +1,4 @@
-# __João Luís Lins__
-Brief passage through my Data / AI journey \
+# __Brief passage through my Data / AI journey__
 <br />
 
 
