@@ -3,6 +3,21 @@ Brief passage through my Data / AI journey \
 <br />
 
 
+### Bayes Variational Autoencoder [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qXZZzwiRyJAiTlzo92m6Yeqol-FKaW4q?usp=sharing)
+> The objective of this project is to study the implementation of Bayes variational autoencoders. In the case here I'm using a convolutional VAE to analyze the latent space of three different datasets and try to generate new samples that resemble the original features of the training examples.
+
+[Github repo](https://github.com/Joaoluislins/Bayes_Variational_Autoencoder)
+<br />
+
+![Image4](interpolation.png)
+<br />
+
+Project made for a paper study at the MS in Machine Learning at Stevens Intitute of technology.
+Course: CS 583-A
+Professor: Jia Xu
+<br />
+<br />
+<br />
 ### (In progress) Deploy of a algorithmic stock trading strategy using a deep learning model (LSTM Keras) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_bsndj48XWm6H6cxDTaKKhBGTNuHgGLE?usp=sharing)
 *Predicting Stock's price movement.*
 > The main objectives of this project are: understand advanced deep learning models inner structures; comprehend the whole cycle of the data throughout a model in production.
