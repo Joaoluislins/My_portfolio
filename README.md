@@ -8,7 +8,7 @@
 
 <br />
 
-![Image5](Loss vs epochs (attention).png)
+![Image5](Loss_vs_epochs_(attention).png)
 <br />
 
 Project developed for the Course CS-583 - Deep Learning during the Ms in Machine Learning at Stevens Institute of Technology.
