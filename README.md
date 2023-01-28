@@ -3,6 +3,19 @@
 <br />
 
 
+### Attention based GRU model to 'translate' sentences using specific rules (character based) [![Open In Colab](https://colab.research.google.com/drive/1T_t3wgg82_2XNyMGfnjV7S-vY6Bv1YlT?usp=sharing)
+> This project was developed in order to achieve translation of english words by applying specific rules as described in the colab link. The use of attention in the decoder gratly reduced the convergence time of the loss and increased the overall accuracy.
+
+<br />
+
+![Image4](Loss vs epochs (attention).png)
+<br />
+
+Project developed for the Course CS-583 - Deep Learning during the Ms in Machine Learning at Stevens Institute of Technology.
+Professor Jia Xu
+<br />
+<br />
+<br />
 ### Bayes Variational Autoencoder [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qXZZzwiRyJAiTlzo92m6Yeqol-FKaW4q?usp=sharing)
 > The objective of this project is to study the implementation of Bayes variational autoencoders. In the case here I'm using a convolutional VAE to analyze the latent space of three different datasets and try to generate new samples that resemble the original features of the training examples.
 
