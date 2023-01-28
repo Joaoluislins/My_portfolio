@@ -3,7 +3,7 @@
 <br />
 
 
-### Attention based GRU model to 'translate' sentences using specific rules (character based) [![Open In Colab](https://colab.research.google.com/drive/1T_t3wgg82_2XNyMGfnjV7S-vY6Bv1YlT?usp=sharing)
+### Attention based GRU model to 'translate' sentences using specific rules (character based) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T_t3wgg82_2XNyMGfnjV7S-vY6Bv1YlT?usp=sharing)
 > This project was developed in order to achieve translation of english words by applying specific rules as described in the colab link. The use of attention in the decoder gratly reduced the convergence time of the loss and increased the overall accuracy.
 
 <br />
