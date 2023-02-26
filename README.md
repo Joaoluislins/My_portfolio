@@ -12,7 +12,7 @@
 ![Image6](Mbart50_finetuning.png)
 <br />
 
-Project developed for the Course CS-810 - Deep Learning Competitions and Reserach during the Ms in Machine Learning at Stevens Institute of Technology.
+Project developed for the Course CS-810 - Deep Learning Competitions and Research during the Ms in Machine Learning at Stevens Institute of Technology.
 Professor Jia Xu
 <br />
 <br />
