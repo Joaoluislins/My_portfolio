@@ -3,8 +3,22 @@
 <br />
 
 
+
+### Finetuning of mBART50 in the task of Machine Translation - (en - pt_br) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16pgJmM20CV0yq-YGECW-pz98RvuwKQa1?usp=sharing)
+> Project developed envisioning participation on the WMT challenge - chat task. The final objective is to improve the current BLEU score of the previous winner. The scope consists of: filtering (Bicleaner) and cleaning 20M bilingual sentences (en-pt); selecting the most similar ones compared to a seed training corpus, provided by the WMT organization, using sentence embbeding (LABSE) and FAISS (KNN based on sentence embbeding); and finally finetuning a mBART50 on the collected data using two frameworks(native Pytorch and Hugginface). Among several used techniques, Relevant ones to cite were backtranslation, fp16, gradient accumulation and gradient checkpointing.
+
+<br />
+
+![Image6](Mbart_50_finetuning.png)
+<br />
+
+Project developed for the Course CS-810 - Deep Learning Competitions and Reserach during the Ms in Machine Learning at Stevens Institute of Technology.
+Professor Jia Xu
+<br />
+<br />
+<br />
 ### Attention based GRU model to 'translate' sentences using specific rules (character based) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T_t3wgg82_2XNyMGfnjV7S-vY6Bv1YlT?usp=sharing)
-> This project was developed in order to achieve translation of english words by applying specific rules as described in the colab link. The use of attention in the decoder gratly reduced the convergence time of the loss and increased the overall accuracy.
+> This project was developed in order to achieve translation of english words by applying specific rules as described in the colab link. The use of attention in the decoder greatly reduced the convergence time of the loss and increased the overall accuracy.
 
 <br />
 
